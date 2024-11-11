@@ -57,6 +57,12 @@
       "image": "http://localhost:3000/images/zz-plant.jpg",
       "price": 25.98,
       "id": 9
+    },
+    {
+      "name": "Aloe",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": 15.99,
+      "id": 10
     }
   ]
 }
