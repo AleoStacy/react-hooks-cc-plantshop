@@ -4,19 +4,22 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "soldOut": true
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "soldOut": true
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "soldOut": true
     },
     {
       "id": 4,
@@ -34,13 +37,26 @@
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 25.99,
+      "soldOut": true
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Aloe",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": 15.99,
+      "id": 8
+    },
+    {
+      "name": "zz Plant",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": 25.98,
+      "id": 9
     }
   ]
 }
