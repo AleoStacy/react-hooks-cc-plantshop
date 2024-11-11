@@ -5,14 +5,14 @@
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99,
-      "soldOut": true
+      "soldOut": false
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98,
-      "soldOut": true
+      "soldOut": false
     },
     {
       "id": 3,
